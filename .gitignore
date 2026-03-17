@@ -1,3 +1,6 @@
+nackademin-langchain-demo/agents/agent1/credentials.json
+nackademin-langchain-demo/agents/agent1/token.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
